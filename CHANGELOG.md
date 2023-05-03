@@ -1,5 +1,23 @@
 # Changelog
 
+## 3.0.0-rc.2 - 2023-05-03
+
+### Added
+- Support Ed25519 key signature
+
+## v3.0.0-rc1 - 2023-04-20
+
+### Added
+- Add Spot Websocket API
+
+### Updated
+- Redesign the Websocket Stream and rename stream methods
+- Upgrade dependencies
+
+## v2.0.1 - 2023-02-22
+
+### Updated
+- Fixed WebSocket onClose event issue
 
 ## v2.0.0 - 2023-01-31
 
